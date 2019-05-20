@@ -13,8 +13,8 @@ Esta relación de recurrencia nos dice que Xn+1 es el residuo de dividir a Xn+c 
 Para ello se ha implementado un programa en java para calcular el congruencial mixto.
 Para esto se tomo en cuenta las siguientes condiciones:
 • a debe ser un número impar, no divisible ni por 3 ni por 5, a continuación tenemos el método desarrollado en java para esta condición.
-
-
+RicardoCapa/Congruencial-Mixto/imagenes/1.png
+https://github.com/RicardoCapa/Congruencial-Mixto/tree/master/Imagenes/1.png
 
 
 
